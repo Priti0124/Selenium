@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f4b21c3-451c-4bd1-92d9-d1f68ef4f41b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Selenium003.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Selenium004.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Selenium/Selenium005.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium/Selenium001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium/Selenium001.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Selenium/Selenium002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Selenium/Selenium002.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2igKkrm7zxz9DE9T1nCkFJI8y6a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -39,14 +39,22 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Selenium001.executor": "Run",
+    "Application.Selenium003.executor": "Run",
     "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.C:/Users/ankit/IdeaProjects/Selenium/testng.xml.executor": "Run",
+    "TestNG.Selenium005.NegativeTC.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Selenium" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/ankit/IdeaProjects/Selenium/testng.xml">
     <configuration name="Selenium001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Selenium.Selenium001" />
       <module name="Selenium" />
@@ -60,8 +68,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Selenium003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Selenium.Selenium003" />
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/ankit/IdeaProjects/Selenium/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Selenium005.NegativeTC" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Selenium.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Selenium" />
+      <option name="MAIN_CLASS_NAME" value="Selenium.Selenium005" />
+      <option name="METHOD_NAME" value="NegativeTC" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/ankit/IdeaProjects/Selenium/testng.xml" />
+        <item itemvalue="TestNG.Selenium005.NegativeTC" />
+        <item itemvalue="Application.Selenium003" />
         <item itemvalue="Application.Selenium001" />
       </list>
     </recent_temporary>
